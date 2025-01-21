@@ -1,0 +1,7 @@
+.vs/
+*.user
+bin/
+
+/parallel_mod/parallel_mod.vcxproj
+/parallel_mod/parallel_mod.vcxproj.filters
+/parallel_mod.sln
